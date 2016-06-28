@@ -123,6 +123,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WNEPQLCB
 
+[Document6]
+DocumentPath=..\altium-library\footprints\DB2G42600L1.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PKBMWQOX
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
