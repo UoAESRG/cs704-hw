@@ -102,7 +102,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AUMJIFDE
 
 [Document5]
 DocumentPath=AWSAM5_CS704.SchDoc
@@ -119,9 +119,17 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PNFMKLTP
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for AWSAM5_CS704\AWSAM5_CS704.BOM
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for AWSAM5_CS704\AWSAM5_CS704.CSV
+DItemRevisionGUID=
+
+[GeneratedDocument3]
 DocumentPath=Project Outputs for AWSAM_5_Breakout\Design Rule Check - AWSAM_5_Breakout.drc
 DItemRevisionGUID=
 
@@ -518,6 +526,16 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+Configuration1_Name1=Filter
+Configuration1_Item1=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
+Configuration1_Name2=General
+Configuration1_Item2=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|IncludePCBData=False|IncludeVaultData=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=950|FormHeight=652|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration1_Name3=GroupOrder
+Configuration1_Item3=
+Configuration1_Name4=SortOrder
+Configuration1_Item4=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Name5=VisibleOrder
+Configuration1_Item5=Comment=100|Description=100|Designator=100|Footprint=100|LibRef=100|Quantity=100
 OutputType2=ComponentCrossReference
 OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
@@ -538,6 +556,8 @@ OutputName5=Simple BOM
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
+Configuration5_Name1=OutputConfigurationParameter1
+Configuration5_Item1=Record=SimpleBOMView|SimpleBOMMode=0
 OutputType6=SinglePinNetReporter
 OutputName6=Report Single Pin Nets
 OutputDocumentPath6=
@@ -547,14 +567,16 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Send To OneNote 2013
+TargetPrinter=CAPS B&W Printing - ENG2
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
-OutputDocumentPath1=
+OutputDocumentPath1=C:\akshat\altium\awsam5-cs704\Project Outputs for AWSAM5_CS704\AWSAM5_CS704.BOM
 OutputVariantName1=
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+Configuration1_Name1=OutputConfigurationParameter1
+Configuration1_Item1=Record=TextPrintView|Header=True|PageNumbers=True|LineNumbers=False|Syntax=True|WrapLines=True|UsePrinterFont=False
 OutputType2=Text Print
 OutputName2=Text Print
 OutputDocumentPath2=
