@@ -121,18 +121,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PNFMKLTP
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for AWSAM5_CS704\AWSAM5_CS704.BOM
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for AWSAM5_CS704\AWSAM5_CS704.CSV
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for AWSAM_5_Breakout\Design Rule Check - AWSAM_5_Breakout.drc
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
